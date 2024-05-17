@@ -1,0 +1,10 @@
+.error {
+  color: red;
+}
+.msg {
+  color: "yellow";
+  font-size: 30px;
+}
+.show-form-btn {
+  width: "100%";
+}
